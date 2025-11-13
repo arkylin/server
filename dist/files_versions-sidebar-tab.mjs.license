@@ -28,7 +28,7 @@ This file is generated from multiple sources. Included packages:
 	- version: 1.3.5
 	- license: GPL-3.0-or-later
 - @nextcloud/paths
-	- version: 2.2.1
+	- version: 2.3.0
 	- license: GPL-3.0-or-later
 - @nextcloud/sharing
 	- version: 0.2.5
